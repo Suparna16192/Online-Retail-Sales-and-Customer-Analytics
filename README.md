@@ -47,6 +47,17 @@ The objective is to transform transactional data into actionable business insigh
 - Customer order frequency
 - Customer purchasing trends
 
+  <img width="1156" height="672" alt="1" src="https://github.com/user-attachments/assets/07bd4b4b-f740-43c3-b20e-f1cd283340df" />
+  
+<img width="1165" height="661" alt="5" src="https://github.com/user-attachments/assets/4a7fd148-cc98-4d22-89cc-4e3c18ae4d69" />
+
+<img width="1170" height="672" alt="4" src="https://github.com/user-attachments/assets/59106cea-caae-4532-b4b9-78de1c3e1904" />
+
+<img width="1161" height="666" alt="3" src="https://github.com/user-attachments/assets/e24cc0f9-2dab-4b6b-ac6b-2ee37970f4c2" />
+
+<img width="1147" height="667" alt="2" src="https://github.com/user-attachments/assets/b712a202-2e52-443b-a10c-657c21973bc1" />
+
+
 ## Key Business Questions
 
 1. Which countries contribute the highest revenue?
